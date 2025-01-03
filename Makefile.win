@@ -12,7 +12,7 @@ CXXINCS  = -I"D:/Programy/Dev-Cpp/TDM-GCC-64/include" -I"D:/Programy/Dev-Cpp/TDM
 BIN      = Heapsort.exe
 CXXFLAGS = $(CXXINCS) 
 CFLAGS   = $(INCS) 
-DEL      = D:\Programy\Dev-Cpp\devcpp.exe INTERNAL_DEL
+DEL      = D:\Programy\Dev-Cpp\DevCpp.exe INTERNAL_DEL
 
 .PHONY: all all-before all-after clean clean-custom
 
